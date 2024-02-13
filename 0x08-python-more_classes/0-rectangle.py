@@ -2,6 +2,6 @@
 """A class that defines a rectangle"""
 
 
-class Rectsngle:
+class Rectangle:
     """An empty class that represents a rectangle"""
     pass
